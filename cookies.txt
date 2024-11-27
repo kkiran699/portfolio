@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.kit.com	TRUE	/	FALSE	1999999999	__cf_bm	Xg196iSyChdMHVYjqkghwlLatDw4UdHiJ7o6QVDaqog-1732725586-1.0.1.1-Ln.s7NlWFdzZ67GerCwHcJe74bMVo6uV9861rGktWrSIhdgd4HI3hISRVT3X_QNaeSCRzQ9EylwZPTSd9h8zzg
+crafty-motivator-5879.kit.com	TRUE	/	FALSE	1999999999	SameSite	None
+
